@@ -10,6 +10,11 @@ This repository is for replication for Image 2 StyleGAN
 ![original_image](./Images/thanos.png)
 ![original_image](./Images/1490_thanos.png.png)
 
+<p float="left">
+  <img src="./Images/josh.png" width="100" />
+  <img src="./Images/1490_josh.png.png" width="100" /> 
+</p>
+
 ## Image2StyleGan morphing test result
 
 ![interpolated](./Images/interpolated_0.png)
